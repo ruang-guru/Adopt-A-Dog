@@ -16,6 +16,8 @@ buildscript {
     ext.jetpackVersion = '1.1.0-alpha01'
     ext.ktxVersion = '1.1.0-alpha03'
     ext.daggerVersion = '2.20'
+    ext.glideVersion  = '4.6.1'
+    ext.picassoVersion = '2.71828'
 
     // Testing libraries
     ext.junit4Version = '4.13-beta-1'

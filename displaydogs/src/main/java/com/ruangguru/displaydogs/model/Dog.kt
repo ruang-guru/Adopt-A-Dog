@@ -9,7 +9,7 @@ data class Dog(
     val name: String = "",
     val age: Int = 0,
     val breed: String,
-    val image: String,
+    val image: String? = "",
     val size: Size
 ) {
     override fun toString(): String {

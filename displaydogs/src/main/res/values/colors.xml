@@ -3,4 +3,15 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="light_sea_green">#2EB5C0</color>
+    <color name="carrot_orange">#f89825</color>
+    <color name="coral">#f14b4b</color>
+    <color name="wild_watermelon">#fe4e68</color>
+    <color name="koromiko">#FFBD63</color>
+    <color name="mint_green">#81ff90</color>
+    <color name="sushi">#72ba43</color>
+    <color name="turquoise">#47D2DE</color>
+    <color name="pinkish_red">#ed2643</color>
+    <color name="lightgrey">#D3D3D3</color>
 </resources>

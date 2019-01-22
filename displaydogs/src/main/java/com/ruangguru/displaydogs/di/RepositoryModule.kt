@@ -16,7 +16,7 @@ class RepositoryModule {
                     name = "Carlito",
                     age = 3,
                     breed = "Schnauzer",
-                    image = "carlito.jpg",
+                    image = "https://i.imgur.com/G7XoZwn.jpg",
                     size = Size.SMALL
                 )
             )
@@ -25,7 +25,7 @@ class RepositoryModule {
                     name = "Linus",
                     age = 6,
                     breed = "Great Dane",
-                    image = "linus.jpg",
+                    image = "https://i.imgur.com/Vk4J3C2.jpg",
                     size = Size.BIG
                 )
             )
@@ -34,7 +34,7 @@ class RepositoryModule {
                     name = "Lily",
                     age = 1,
                     breed = "Cairn",
-                    image = "lily.jpg",
+                    image = "https://i.imgur.com/ntPeGPA.jpg",
                     size = Size.SMALL
                 )
             )
@@ -43,7 +43,7 @@ class RepositoryModule {
                     name = "Snoop",
                     age = 9,
                     breed = "Dachshund",
-                    image = "snoop.jpg",
+                    image = "https://i.imgur.com/ntXNmmL.jpg",
                     size = Size.SMALL
                 )
             )
@@ -52,7 +52,7 @@ class RepositoryModule {
                     name = "Troy",
                     age = 3,
                     breed = "Staffordshire Bull Terrier",
-                    image = "troy.jpg",
+                    image = "https://i.imgur.com/6H9gfdz.jpg",
                     size = Size.BIG
                 )
             )
@@ -61,7 +61,7 @@ class RepositoryModule {
                     name = "Sassy",
                     age = 7,
                     breed = "Appenzeller",
-                    image = "sassy.jpg",
+                    image = "https://i.imgur.com/Wc0kbnt.jpg",
                     size = Size.BIG
                 )
             )
@@ -70,7 +70,7 @@ class RepositoryModule {
                     name = "Jupiter",
                     age = 3,
                     breed = "Bernese Mountain",
-                    image = "jupiter.jpg",
+                    image = "https://i.imgur.com/WXbVDce.jpg",
                     size = Size.BIG
                 )
             )
@@ -79,7 +79,7 @@ class RepositoryModule {
                     name = "Suki",
                     age = 10,
                     breed = "Chihuahua",
-                    image = "suki.jpg",
+                    image = "https://i.imgur.com/sSB2R91.jpg",
                     size = Size.SMALL
                 )
             )
@@ -88,7 +88,7 @@ class RepositoryModule {
                     name = "Bubba",
                     age = 3,
                     breed = "Poodle",
-                    image = "bubba.jpg",
+                    image = "https://i.imgur.com/PDnlWf8.jpg",
                     size = Size.SMALL
                 )
             )
@@ -97,7 +97,7 @@ class RepositoryModule {
                     name = "Destiny",
                     age = 8,
                     breed = "Bullmastiff",
-                    image = "destiny.jpg",
+                    image = "https://i.imgur.com/rtgtvII.jpg",
                     size = Size.BIG
                 )
             )
@@ -106,7 +106,7 @@ class RepositoryModule {
                     name = "Trinity",
                     age = 4,
                     breed = "Italian Greyhound",
-                    image = "trinity.jpg",
+                    image = "https://i.imgur.com/AZCiWGU.jpg",
                     size = Size.BIG
                 )
             )
@@ -115,7 +115,7 @@ class RepositoryModule {
                     name = "Sleepy",
                     age = 5,
                     breed = "Komondor",
-                    image = "sleepy.jpg",
+                    image = "https://i.imgur.com/xXbeo2I.jpg",
                     size = Size.BIG
                 )
             )
@@ -124,7 +124,7 @@ class RepositoryModule {
                     name = "Snowflake",
                     age = 3,
                     breed = "Maltese",
-                    image = "snowflake.jpg",
+                    image = "https://i.imgur.com/JP8BqPS.jpg",
                     size = Size.SMALL
                 )
             )
@@ -133,7 +133,7 @@ class RepositoryModule {
                     name = "Pancake",
                     age = 12,
                     breed = "Puggle",
-                    image = "pancake.jpg",
+                    image = "https://i.imgur.com/V83ign0.jpg",
                     size = Size.SMALL
                 )
             )

@@ -8,4 +8,20 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
+    <style name="TextBig" parent="android:Theme">
+        <item name="android:textSize">@dimen/text_content</item>
+    </style>
+
+    <style name="TextBig.Title" parent="android:Theme">
+        <item name="android:textSize">@dimen/text_title_big</item>
+    </style>
+
+    <style name="TextSmall" parent="android:Theme">
+        <item name="android:textSize">@dimen/text_content</item>
+    </style>
+
+    <style name="TextSmall.title" parent="android:Theme">
+        <item name="android:textSize">@dimen/text_title_small</item>
+    </style>
 </resources>
