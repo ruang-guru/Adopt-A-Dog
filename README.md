@@ -4,4 +4,6 @@ Hello, candidate! Today we are going to make a simple app to help in the process
 
 Provided in this project is the code as a base where you add your code. In the process, you are free to add libraries of your choosing, and adding or removing anything. As for layout, don't worry so much about precision, be it color, dimension, etc. Improvisation is welcome, too.
 
-Expected result is as below ![here](https://github.com/ruang-guru/Adopt-A-Dog/blob/master/display.png) 
+Expected result is as below 
+
+![here](https://github.com/ruang-guru/Adopt-A-Dog/blob/master/display.png) 
